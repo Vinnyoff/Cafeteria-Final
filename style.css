@@ -134,10 +134,12 @@
 
 .contatos {
     width: 100%;
+    height: 100vh;
     padding: 35px 0;
     background: url(assets/parallax-imagem4.png) no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    margin-top: 40px;
 
     & h2 {
         background-color: #604829;
@@ -146,7 +148,7 @@
         font-size: 24px;
         width: 500px;
         padding: 10px;
-        margin: 10px auto 0 auto;
+        margin: auto;
     }
 
     & iframe {
@@ -266,4 +268,12 @@
     background-size: cover;
     background-color: #c4a47c;
     border-radius: 4px;
+}
+
+/* Ajuste conforme a altura do header */
+
+.informacoes,
+.contatos,
+.horarios {
+    scroll-margin-top: 80px;
 }
