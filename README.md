@@ -1,3 +1,5 @@
+
+
 ## 🖥 Projeto DevMedia
 
 Website Cafeteria
@@ -22,7 +24,7 @@ A proposta desse projeto é criar um site utilizando as tecnologias HTML e CSS. 
 
 ## Amostra do website 
 
-<img width="1024px" src="assets/amostra.png">
+<img width="1024px" src="assets/Macbook-Air-cafeteria-final-eight.vercel.app.png">
 
 
   
